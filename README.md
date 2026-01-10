@@ -1,5 +1,5 @@
 # 💫 Hi 👋,I'm Akhil
-**A beginner Software Developer**
+**A beginner Software Developer 🧑🏻‍💻**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhilxparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-akhil053) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kr.akhil053@gmail.com)
 
@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **kr.akhil053@gmail.com** For Collaboration/Project or Anyt
 - 🔭 **I’m currently working on:** MERN Stack Projects
 - 🌱 **I’m currently learning:** Mongo DB and DSA
 - 🤔 **I’m looking for help with:** Not yet
-- 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** Akhil
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
