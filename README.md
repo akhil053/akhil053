@@ -6,8 +6,8 @@
 
 Email Me 👉 ✉️ **kr.akhil053@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** MERN Stack Projects
-- 🌱 **I’m currently learning:** Mongo DB and DSA
+- 🔭 **I’m currently working on:** Embedded Software Projects
+- 🌱 **I’m currently learning:** Embedded C/C++ and KiCAD
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
  # 💻 Tech Stack:
