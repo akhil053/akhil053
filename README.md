@@ -7,7 +7,7 @@
 Email Me 👉 ✉️ **kr.akhil053@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Development 
-- 🌱 **I’m currently learning:** C++ and Coffee 
+- 🌱 **I’m currently learning:** C++ and Javascript 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
  # 💻 Tech Stack:
