@@ -6,8 +6,8 @@
 
 Email Me 👉 ✉️ **kr.akhil053@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Embedded Software Projects
-- 🌱 **I’m currently learning:** Embedded C/C++ and KiCAD
+- 🔭 **I’m currently working on:** Development 
+- 🌱 **I’m currently learning:** C++ and Coffee 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
  # 💻 Tech Stack:
